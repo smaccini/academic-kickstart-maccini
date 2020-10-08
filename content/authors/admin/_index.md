@@ -22,8 +22,10 @@ bio: Instructor of Data Driven Decision Making at the UCF College of Business Ad
 
 interests:
 - Digital Engagement
-- Destination Marketing
+- Destinations
 - Historic and Cultural Attributes
+- Data Analytics
+- Ethics in Decision Making
 
 education:
   courses:
@@ -36,6 +38,9 @@ education:
   - course: Juris Doctor
     institution: George Washington University
     year: 1995
+  - course: BS in Hotel Administration
+    institution: University of New Hampshire
+    year: 1990
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +49,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:shelley.maccini@knights.ucf.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShelleyMaccini
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/smaccini
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-TBD
+Completing the path from engagement to advocacy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests focus on the power of digital engagement to spur advocacy on behalf of destinations, with an emphasis on the destination's historical and cultural attributes.  In addition to pursuing my PhD in Texts and Technology, I also teach the Data Driven Decision Making course with the Integrated Business program in the UCF College of Business.
