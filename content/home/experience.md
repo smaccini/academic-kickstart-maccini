@@ -68,4 +68,5 @@ date_format = "Jan 2006"
   date_start = "1996"
   date_end = "1998"
   description = """Analyzed and reported operating results.  Designed and implemented internal control systems."""
+  
 +++
