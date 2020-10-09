@@ -41,7 +41,6 @@ date_format = "Jan 2006"
   date_end = "2017-07"
   description = """President of marketing consulting business for the tourism industry, specializing in strategic planning, research and business intelligence, and destination learning programs."""
 
-
 [[experience]]
   title = "Area Director of Sales and Marketing"
   company = "Hilton Worldwide/Crestline Hotels and Resorts"
