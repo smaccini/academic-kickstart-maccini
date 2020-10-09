@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Destination Strategy Partners"
   company_url = ""
   location = "Orlando, FL"
-  date_start = "2015"
-  date_end = "2017"
+  date_start = "2015-07"
+  date_end = "2017-07"
   description = """President of marketing consulting business for the tourism industry, specializing in strategic planning, research and business intelligence, and destination learning programs."""
 
 
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   company = "Hilton Worldwide/Crestline Hotels and Resorts"
   company_url = ""
   location = "Orlando, FL"
-  date_start = "2013"
-  date_end = "2015"
+  date_start = "2013-07"
+  date_end = "2015-07"
   description = """Directed the sales and marketing activities for a cluster of Hilton-branded hotels on the International Drive tourism corridor."""
 
   [[experience]]
@@ -56,8 +56,8 @@ date_format = "Jan 2006"
   company = "Experience Kissimmee/Kissimmee Convention & Visitors Bureau"
   company_url = ""
   location = "Kissimmee, FL"
-  date_start = "1998"
-  date_end = "2013"
+  date_start = "1998-01"
+  date_end = "2013-06"
   description = """Progressively responsible positions from Research Analyst, to Research Manager, to Strategic Research and Marketing Manager, to Executive Director.  Led the tourism development and destination marketing activities for the Kissimmee destination."""
 
   [[experience]]
@@ -65,8 +65,7 @@ date_format = "Jan 2006"
   company = "Shades of Green Resort"
   company_url = ""
   location = "Lake Buena Vista, FL"
-  date_start = "1996"
-  date_end = "1998"
+  date_start = "1996-09"
+  date_end = "1998-01"
   description = """Analyzed and reported operating results.  Designed and implemented internal control systems."""
-  
-+++
+  +++
