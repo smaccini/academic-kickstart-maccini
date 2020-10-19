@@ -18,24 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Instructor"
-  company = "UCF College of Business Administration"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
+<<<<<<< HEAD
   location = "Orlando, FL"
   date_start = "2017-08-01"
+=======
+  location = "California"
+  date_start = "2017-01-01"
+>>>>>>> parent of 61e6dd0... experience commit
   date_end = ""
-  description = """Lead Instructor for the Data Driven Decision Making course in the Integrated Business program.
+  description = """
   Responsibilities include:
   
-  * Serve on the Undergraduate Policy and Curriculum Committee (UPCC)
-  * Chaired mutiple search committees
-  * Created training and coaching opportunity for Integrated Business students through high school business case competition
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "President"
-  company = "Destination Strategy Partners"
+  title = "Professor"
+  company = "University X"
   company_url = ""
+<<<<<<< HEAD
   location = "Orlando, FL"
   date_start = "2015-07-01"
   date_end = "2017-07-01"
@@ -68,3 +74,11 @@ date_format = "Jan 2006"
   date_end = "1998-01-01"
   description = """Analyzed and reported operating results.  Designed and implemented internal control systems."""
   +++
+=======
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
++++
+>>>>>>> parent of 61e6dd0... experience commit
